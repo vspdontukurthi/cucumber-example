@@ -10,4 +10,4 @@ Feature: Calculator
     When I add 2 and 2
     Then the result should be 4
     When I add 3 and 2
-    Then the result should be 4
+    Then the result should be 5
