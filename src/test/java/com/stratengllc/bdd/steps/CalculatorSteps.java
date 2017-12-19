@@ -3,7 +3,7 @@ package com.stratengllc.bdd.steps;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import com.stratengllc.bdd.calculator.Calculator;
+import com.czeczotka.bdd.calculator.Calculator;
 
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
