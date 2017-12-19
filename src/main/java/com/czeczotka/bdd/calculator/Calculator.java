@@ -1,4 +1,4 @@
-package com.stratengllc.bdd.calculator;
+package com.czeczotka.bdd.calculator;
  
 public class Calculator {
  
